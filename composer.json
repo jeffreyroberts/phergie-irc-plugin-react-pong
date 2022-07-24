@@ -1,6 +1,6 @@
 {
     "abandoned": true,
-    "name": "phergie/phergie-irc-plugin-react-pong",
+    "name": "jeffreyroberts/phergie-irc-plugin-react-pong",
     "description": "Phergie plugin for responding to server ping events",
     "keywords": [ "irc", "bot", "react", "plugin" ],
     "license": "BSD-2-Clause",
@@ -12,10 +12,10 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "phergie/phergie-irc-bot-react": "~1"
+        "jeffreyroberts/phergie-irc-bot-react": "~1"
     },
     "require-dev": {
-        "phergie/phergie-irc-bot-react-development": "^1.0.0"
+        "jeffreyroberts/phergie-irc-bot-react-development": "^1.0.0"
     },
     "autoload": {
         "psr-4": {
