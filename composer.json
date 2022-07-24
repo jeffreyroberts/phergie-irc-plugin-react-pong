@@ -12,10 +12,10 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "jeffreyroberts/phergie-irc-bot-react": "~1"
+        "jeffreyroberts/phergie-irc-bot-react": "dev-master"
     },
     "require-dev": {
-        "jeffreyroberts/phergie-irc-bot-react-development": "^1.0.0"
+        "jeffreyroberts/phergie-irc-bot-react-development": "dev-master"
     },
     "autoload": {
         "psr-4": {
